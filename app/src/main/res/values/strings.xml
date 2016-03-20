@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">5 things...</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="movie1Name">Minions</string>
+    <string name="movie1Content">Starting as single-celled yellow organisms, Minions evolve through the ages, perpetually serving the most despicable of masters.\n\nContinuously unsuccessful at keeping these masters--from T. rex to Napoleon--the Minions find themselves without someone to serve and fall into a deep depression. But one Minion named Kevin has a plan, and he--alongside teenage rebel Stuart and lovable little Bob--ventures out into the world to find a new evil boss for his brethren to follow.\n\nThe trio embarks upon a thrilling journey that ultimately leads them to their next potential master, Scarlet Overkill (Academy Award winner Sandra Bullock), the world’s first-ever female super-villain. They travel from frigid Antarctica to 1960s New York City, ending in mod London, where they must face their biggest challenge to date: saving all of Minionkind...from annihilation.</string>
+
+    <string name="movie2Name">Frozen</string>
+    <string name="movie2Content">Featuring the voices of Kristen Bell and Idina Menzel, “Frozen” is the coolest comedy-adventure ever to hit the big screen. When a prophecy traps a kingdom in eternal winter, Anna, a fearless optimist, teams up with extreme mountain man Kristoff and his sidekick reindeer Sven on an epic journey to find Anna’s sister Elsa, the Snow Queen, and put an end to her icy spell. Encountering mystical trolls, a funny snowman named Olaf, everest-like extremes and magic at every turn, Anna and Kristoff battle the elements in a race to save the kingdom from destruction.</string>
+
+    <string name="movie3Name">Lion King</string>
+    <string name="movie3Content">Disney animated feature following a naive and curious lion cub as he struggles to find his place in nature\'s great \'circle of life\'. Simba (voice of Jonathan Taylor Thomas/Matthew Broderick) is excited about being king of the pride but is forced into exile by his evil and greedy uncle, Scar (Jeremy Irons), who wants to claim the throne for himself. Away from his family, Simba meets a meerkat named Timon (Nathan Lane) and a warthog named Pumbaa (Ernie Sabella). With the help of his new friends he overcomes great fear and adversity to defeat Scar and take his rightful place as ruler of the Pride Lands.</string>
+
+    <string name="movie4Name">Toy Story</string>
+    <string name="movie4Content">Award winning computer-animated Disney adventure, about toys which come to life as soon as their owner, Andy, leaves the room. Pull-string cowboy Woody (voiced by Tom Hanks) is Andy\'s favourite toy until Buzz Lightyear (Tim Allen) arrives. The two have an ongoing feud, but are forced to team up when they find themselves stranded in the real world. Through their attempts to return to Andy\'s room they forge a unique friendship.</string>
+
+    <string name="movie5Name">Finding Nemo</string>
+    <string name="movie5Content">Academy Award-winning animated film from the creators of \'Toy Story\'. Motherless clownfish Nemo (voiced by Alexander Gould) is carried away from his home in Australia\'s Great Barrier Reef. His overprotective father, Marlin (Albert Brooks), and Dory (Ellen DeGeneres), a friendly but forgetful regal blue tang fish, go to his rescue. The two embark on an adventure that leads to encounters with a range of colourful characters including Bruce the Great White Shark (Barry Humphries), a Sea Tortoise called Crush (Andrew Stanton) and a Pelican called Nigel (Geoffrey Rush).</string>
+
+    <string name="contactName">Contact Us</string>
+
+    <string name="btnHome">Home</string>
+    <string name="btnPrev">Prev. Movie</string>
+    <string name="btnNext">Next Movie</string>
+</resources>
